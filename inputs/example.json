@@ -1,0 +1,9 @@
+{
+  "scenarios": ["small-hub-vnet", "medium-network-aks"],
+  "region": "eastus",
+  "project": "dev-environment",
+  "tags": {
+    "owner": "cloudteam",
+    "env": "dev"
+  }
+}
