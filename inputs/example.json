@@ -7,3 +7,34 @@
     "env": "dev"
   }
 }
+
+
+{
+  "scenarios": ["small-web-app"],
+  "region": "eastus",
+  "project": "small-web-app",
+  "tags": {
+    "owner": "webteam",
+    "env": "prod"
+  }
+}
+
+{
+  "scenarios": ["medium-storage-blob"],
+  "region": "eastus",
+  "project": "storage-environment",
+  "tags": {
+    "owner": "storageteam",
+    "env": "prod"
+  }
+}
+
+{
+  "scenarios": ["enterprise-networking"],
+  "region": "eastus",
+  "project": "enterprise-networking",
+  "tags": {
+    "owner": "networkteam",
+    "env": "prod"
+  }
+}

@@ -1,23 +1,19 @@
 
-```text
-MIT License
+---
 
-Copyright (c) 2023 Your Organization
+### Key Updates in the README
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. **Prerequisites**:
+   - Information on the required software (Terraform, Python, and Azure CLI) for using the tool.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. **Usage**:
+   - Clear instructions for getting started, including cloning the repo, installing dependencies, and configuring input JSON.
+   - Running the blueprint generator and where the output will be stored.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. **About**:
+   - Explanation of the tool's purpose, its supported scenarios, and the flexibility it provides in automating Azure deployments.
+   
+4. **Benefits**:
+   - Highlights the key advantages of using the scenario-based approach and Terraform, including reusability, reduced setup time, dependency management, and community contributions.
+
+This README file provides all necessary instructions and explanations for users to quickly understand, deploy, and contribute to the project.
