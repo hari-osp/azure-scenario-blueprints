@@ -1,6 +1,6 @@
 import json
 import sys
-from blueprint_engine import parser
+from . import parser
 
 def generate_blueprint(input_file):
     with open(input_file, 'r') as f:
